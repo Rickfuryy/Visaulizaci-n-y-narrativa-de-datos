@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(https://www.pixelstalk.net/wp-content/uploads/image10/Star-Wars-Space-wallpaper-with-a-breathtaking-view-of-the-Death-Star-orbiting-a-distant-planet-with-a-fleet-of-Star-Destroyers-nearby-and-stars-filling-the-sky.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+  min-height: 100vh; 
+}
+
+.cuerpo{
+  width: 60%;            
+  margin: auto;          
+  background: black;
+  text-align:center;
+}
+
+.titulo{
+  width: 70%;
+  height: auto;
+}
+
+.subtitulo{
+  margin: auto;
+  height: 120px;
+}
+.subtitulo2{
+  margin:auto;
+  width: 30%;
+}
